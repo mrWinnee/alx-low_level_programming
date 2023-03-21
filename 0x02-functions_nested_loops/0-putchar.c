@@ -1,9 +1,9 @@
 #include <stdio.h>
 #include "main.h"
-/*
-* a program that runs
-* and end with 0 if SUCCESS
-*/
+/**
+ * main - print holberton
+ * Return: 0 if succesful
+ */
 int main(void)
 {
 _putchar('_');
