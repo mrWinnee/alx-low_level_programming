@@ -1,11 +1,10 @@
-#include <stdio.h>
 #include "main.h"
-/**
- * main - print alphabet
- * Return: 0 if succesful
- */
-int main(void)
+
+void print_alphabet(void)
 {
-print_alphabet();
-return (0);
+int i;
+for (i = 97; i <=122; i++ )
+{
+_putchar(i);
+}
 }
