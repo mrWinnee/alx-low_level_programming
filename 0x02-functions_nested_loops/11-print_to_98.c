@@ -4,7 +4,7 @@
  * print_to_98 - prints all natural numbers from n to 98.
  *
  * @n: number to begin with.
- */ 
+ */
 void print_to_98(int n)
 {
 int end_num = 98;
