@@ -19,7 +19,7 @@ else
 if (j == 0)
 printf("%d,", i *j);
 else
-printf("%s%d", (num < 10 ? ".." : "."),i * j);
+printf("%s%d", (i * j < 10 ? ".." : "."),i * j);
 }
 }
 printf("\n");
