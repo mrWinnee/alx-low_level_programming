@@ -19,7 +19,7 @@ printf("0%d:", i);
 }
 else
 {
-printf("%d", i);
+printf("%d:", i);
 }
 if (j < 10)
 {
