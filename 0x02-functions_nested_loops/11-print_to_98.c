@@ -5,7 +5,6 @@
  *
  * @n: number to begin with.
  */ 
-
 void print_to_98(int n)
 {
 int end_num = 98;
