@@ -6,7 +6,7 @@
  */
 int main(void)
 {
-	int n = 6;
+	long int n = 612852475143;
 	int n_sqrt = sqrt(n);
 	int n_primes[30];
 	int n_pm_index = 0;
