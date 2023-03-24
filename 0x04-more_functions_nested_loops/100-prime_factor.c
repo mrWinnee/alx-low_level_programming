@@ -10,7 +10,7 @@ int main(void)
 	int n_sqrt = sqrt(n);
 	int n_primes[30];
 	int n_pm_index = 0;
-	int new_n = n;
+	long int new_n = n;
 	int f;
 
 	for (f = 2; f <= n_sqrt + 1 || new_n > 1;)
