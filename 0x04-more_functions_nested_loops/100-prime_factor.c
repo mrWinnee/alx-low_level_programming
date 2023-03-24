@@ -50,6 +50,6 @@ int main(void)
 		else
 			f++;
 	}
-	printf("%d\n", n_primes[n_pm_index - 1]);
+	printf("%lld\n", n_primes[n_pm_index - 1]);
 	return (0);
 }
