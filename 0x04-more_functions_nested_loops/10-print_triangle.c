@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * print_trinagle - self explanatory.
+ * print_triangle - self explanatory.
  * @size: sie of the triangle.
  */
 void print_triangle(int size)
