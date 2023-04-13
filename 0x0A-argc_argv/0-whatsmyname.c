@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include "main.h"
 /**
  * main - checks the code.
  * @argc: the size of the argv[].
